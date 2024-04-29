@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  },
+  "name": "cli-calculator-project-warda",
+  "version": "1.0.0",
+  "description": "this is my simple calculator",
+  "main": "main.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
